@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure
+DEPEND=>=app-text/djvu-3.5.21:= >=app-text/poppler-0.16.7:= dev-libs/libxml2:= dev-libs/libxslt:= graphicsmagick? ( media-gfx/graphicsmagick:= ) virtual/pkgconfig nls? ( sys-devel/gettext )
+DESCRIPTION=A tool to create DjVu files from PDF files
+EAPI=8
+HOMEPAGE=https://github.com/jwilk-archive/pdf2djvu
+INHERIT=toolchain-funcs
+IUSE=+graphicsmagick nls openmp
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=>=app-text/djvu-3.5.21:= >=app-text/poppler-0.16.7:= dev-libs/libxml2:= dev-libs/libxslt:= graphicsmagick? ( media-gfx/graphicsmagick:= )
+SLOT=0
+SRC_URI=https://github.com/jwilk/pdf2djvu/releases/download/0.9.19/pdf2djvu-0.9.19.tar.xz
+_eclasses_=toolchain-funcs	862d337d98edb576796827be2c6b11ca	multilib	c19072c3cd7ac5cb21de013f7e9832e0
+_md5_=c11f820efaad1da0a1afafabd610a8fb

@@ -1,0 +1,11 @@
+DEFINED_PHASES=test
+DEPEND=~dev-cpp/tbb-2020.3
+DESCRIPTION=A PAR-2.0 file verification and repair tool (tbb fork)
+EAPI=8
+HOMEPAGE=https://github.com/jcfp/par2tbb-chuchusoft-sources
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=!app-arch/par2cmdline !app-arch/par2cmdline-turbo
+SLOT=0
+SRC_URI=https://github.com/jcfp/par2tbb-chuchusoft-sources/releases/download/0.4-tbb-20150503/par2cmdline-0.4-tbb-20150503.tar.gz -> par2cmdline-tbb-0.4_p20150503.tar.gz
+_md5_=fdc6690ed4cb979561b9c664374ae4e8
