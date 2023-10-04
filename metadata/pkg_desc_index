@@ -1,7 +1,6 @@
 app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair tool (tbb fork)
 app-text/pdf2djvu 0.9.19: A tool to create DjVu files from PDF files
 gui-apps/swaync 0.8.0: A simple notification daemon with a GTK gui for notifications and control center
-net-im/telegram-desktop 4.8.10 4.9.9 4.10.0 4.10.2: Official desktop client for Telegram
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.1.0_beta1 4.1.0_rc2 4.1.0: Binary newsgrabber with web-interface
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
