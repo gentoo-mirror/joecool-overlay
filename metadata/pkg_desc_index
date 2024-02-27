@@ -2,7 +2,6 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-arch/unrar 7.0.5: Uncompress rar files
 app-text/pdf2djvu 0.9.19: A tool to create DjVu files from PDF files
 dev-ruby/typhoeus 1.4.1: Runs HTTP requests in parallel while cleanly encapsulating handling logic
-gui-apps/swaync 0.8.0: A simple notification daemon with a GTK gui for notifications and control center
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.2.3_rc1 4.2.3_rc2: Binary newsgrabber with web-interface
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
