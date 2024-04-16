@@ -3,5 +3,5 @@ app-arch/unrar 7.0.7: Uncompress rar files
 app-text/pdf2djvu 0.9.19: A tool to create DjVu files from PDF files
 dev-ruby/typhoeus 1.4.1: Runs HTTP requests in parallel while cleanly encapsulating handling logic
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.2.3 4.3.0_beta1: Binary newsgrabber with web-interface
+net-nntp/sabnzbd 4.2.3 4.3.0_beta1 4.3.0_rc1: Binary newsgrabber with web-interface
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
