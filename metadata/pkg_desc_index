@@ -1,9 +1,10 @@
 app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair tool (tbb fork)
 app-text/pdf2djvu 0.9.19: A tool to create DjVu files from PDF files
+dev-python/pyfakefs 5.3.5: A fake file system that mocks the Python file system modules
 dev-ruby/typhoeus 1.4.1: Runs HTTP requests in parallel while cleanly encapsulating handling logic
 gui-libs/egl-wayland 9999: EGLStream-based Wayland external platform
 gui-wm/sway 1.8.1-r2 1.9: i3-compatible Wayland window manager
 media-libs/gst-plugins-base 1.22.11: Basepack of plugins for gstreamer
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.3.0_rc1 4.3.0_rc2 4.3.0: Binary newsgrabber with web-interface
+net-nntp/sabnzbd 4.3.0 4.3.1: Binary newsgrabber with web-interface
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
