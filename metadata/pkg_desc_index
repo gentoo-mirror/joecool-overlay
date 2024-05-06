@@ -6,5 +6,5 @@ gui-libs/egl-wayland 9999: EGLStream-based Wayland external platform
 gui-wm/sway 1.8.1-r2 1.9: i3-compatible Wayland window manager
 media-libs/gst-plugins-base 1.22.11: Basepack of plugins for gstreamer
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.3.0 4.3.1: Binary newsgrabber with web-interface
+net-nntp/sabnzbd 4.3.1: Binary newsgrabber with web-interface
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
