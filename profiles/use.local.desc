@@ -16,3 +16,4 @@ media-libs/gst-plugins-base:pango - Enable pango GStreamer plugin
 media-libs/gst-plugins-base:wayland - Enable Wayland EGL windowing system support (requires egl and at least one of gles2 or opengl)
 net-misc/onedrive:debug - Honestly not sure
 net-misc/onedrive:libnotify - Add libnotify support
+net-nntp/nzbget:parcheck - Enable support for checking PAR archives
