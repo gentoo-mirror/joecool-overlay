@@ -2,17 +2,5 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-gui-wm/sway:X - Enable support for X11 applications (XWayland)
-gui-wm/sway:swaybar - Install 'swaybar': sway's status bar component
-gui-wm/sway:swaynag - Install 'swaynag': shows a message with buttons
-gui-wm/sway:tray - Enable support for StatusNotifierItem tray specification
-gui-wm/sway:wallpapers - Install sway's default wallpaper image
-media-libs/gst-plugins-base:X - Enable ximagesink and xvimagesink plugins; build GLX platform support if USE=opengl is enabled; build x11 windowing system support if USE=egl is enabled
-media-libs/gst-plugins-base:gbm - Enable Graphics Buffer Manager based EGL windowing system support (requires egl and at least one of gles or opengl)
-media-libs/gst-plugins-base:gles2 - Enable OpenGL library and plugin via GLESv2 API (requires egl)
-media-libs/gst-plugins-base:ivorbis - Enable integer based vorbis decoder
-media-libs/gst-plugins-base:opengl - Enable OpenGL library and plugin via desktop OpenGL API
-media-libs/gst-plugins-base:pango - Enable pango GStreamer plugin
-media-libs/gst-plugins-base:wayland - Enable Wayland EGL windowing system support (requires egl and at least one of gles2 or opengl)
 net-misc/onedrive:debug - Honestly not sure
 net-misc/onedrive:libnotify - Add libnotify support
