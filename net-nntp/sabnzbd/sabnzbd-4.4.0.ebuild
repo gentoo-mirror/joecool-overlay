@@ -3,6 +3,7 @@
 
 EAPI="8"
 
+#dev-python/tavern needs py3.13 before incrementing
 PYTHON_COMPAT=( python3_{10..12} )
 PYTHON_REQ_USE="sqlite"
 
@@ -22,7 +23,7 @@ S="${WORKDIR}/${MY_P}"
 # Sabnzbd is GPL-2 but bundles software with the following licenses.
 LICENSE="GPL-2 BSD LGPL-2 MIT BSD-1"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="~amd64"
 IUSE="test"
 RESTRICT="!test? ( test )"
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
@@ -34,7 +35,7 @@ DEPEND="
 	$(python_gen_cond_dep '
 		>=dev-python/apprise-1.8.0[${PYTHON_USEDEP}]
 		dev-python/chardet[${PYTHON_USEDEP}]
-		dev-python/cheetah3[${PYTHON_USEDEP}]
+		=dev-python/cheetah3-3.4.0_beta6[${PYTHON_USEDEP}]
 		dev-python/cherrypy[${PYTHON_USEDEP}]
 		dev-python/configobj[${PYTHON_USEDEP}]
 		dev-python/cryptography[${PYTHON_USEDEP}]
