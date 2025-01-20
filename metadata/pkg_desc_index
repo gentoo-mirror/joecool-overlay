@@ -3,5 +3,5 @@ app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
 dev-python/cheetah3 3.4.0_beta6: Python-powered template engine and code generator
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.4.0 4.4.1_rc1 4.4.1: Binary newsgrabber with web-interface
-net-vpn/netbird 0.35.2 0.36.2: netbird VPN client-only ebuild
+net-vpn/netbird 0.35.2 0.36.2 0.36.3: netbird VPN client-only ebuild
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
