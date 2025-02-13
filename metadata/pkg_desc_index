@@ -5,5 +5,5 @@ dev-python/cheetah3 3.4.0_beta6: Python-powered template engine and code generat
 net-im/element-desktop-bin 1.11.91 1.11.92: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.4.0 4.4.1_rc1 4.4.1: Binary newsgrabber with web-interface
-net-vpn/netbird 0.36.5 0.36.6: netbird VPN client-only ebuild
+net-vpn/netbird 0.36.5 0.36.6 0.36.7: netbird VPN client-only ebuild
 virtual/notification-daemon 1: Virtual for notification daemon dbus service
