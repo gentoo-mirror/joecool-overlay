@@ -4,4 +4,4 @@ dev-db/sqlcipher 4.6.1: Full Database Encryption for SQLite
 net-im/element-desktop-bin 1.11.91 1.11.92: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.4.1 4.5.0_beta2: Binary newsgrabber with web-interface
-net-vpn/netbird 0.36.7 0.37.0: netbird VPN client-only ebuild
+net-vpn/netbird 0.37.0 0.37.1: netbird VPN client-only ebuild
