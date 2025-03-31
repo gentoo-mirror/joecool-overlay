@@ -5,6 +5,6 @@ dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-im/element-desktop-bin 1.11.96: A glossy Matrix collaboration client for desktop (binary package)
 net-libs/libtorrent 0.15.1-r1: BitTorrent library written in C++ for *nix
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.5.0_beta2 4.5.0_rc1: Binary newsgrabber with web-interface
+net-nntp/sabnzbd 4.5.0: Binary newsgrabber with web-interface
 net-p2p/rtorrent 0.15.1-r1: BitTorrent Client using libtorrent
 net-vpn/netbird 0.38.2 0.39.1 0.39.2: netbird VPN client-only ebuild
