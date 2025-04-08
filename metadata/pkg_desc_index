@@ -2,7 +2,7 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
 dev-db/sqlcipher 4.6.1: Full Database Encryption for SQLite
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
-net-im/element-desktop-bin 1.11.96: A glossy Matrix collaboration client for desktop (binary package)
+net-im/element-desktop-bin 1.11.97: A glossy Matrix collaboration client for desktop (binary package)
 net-libs/libtorrent 0.15.2: BitTorrent library written in C++ for *nix
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.5.0 4.5.1_rc1: Binary newsgrabber with web-interface
