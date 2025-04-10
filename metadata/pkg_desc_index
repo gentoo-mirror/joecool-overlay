@@ -7,4 +7,4 @@ net-libs/libtorrent 0.15.2: BitTorrent library written in C++ for *nix
 net-misc/onedrive 2.4.25-r1: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.5.0 4.5.1_rc1: Binary newsgrabber with web-interface
 net-p2p/rtorrent 0.15.2: BitTorrent Client using libtorrent
-net-vpn/netbird 0.39.2 0.40.0: netbird VPN client-only ebuild
+net-vpn/netbird 0.40.0 0.40.1: netbird VPN client-only ebuild
