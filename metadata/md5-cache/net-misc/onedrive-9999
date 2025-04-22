@@ -1,0 +1,14 @@
+BDEPEND=>=dev-db/sqlite-3.7.15:3 net-misc/curl libnotify? ( x11-libs/libnotify ) virtual/pkgconfig >=sys-devel/gcc-15.0.0[d] >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install postinst unpack
+DEPEND=>=dev-db/sqlite-3.7.15:3 net-misc/curl libnotify? ( x11-libs/libnotify ) virtual/pkgconfig
+DESCRIPTION=Free Client for OneDrive on Linux
+EAPI=8
+HOMEPAGE=https://abraunegg.github.io/
+INHERIT=git-r3
+IUSE=debug libnotify
+LICENSE=GPL-3
+PROPERTIES=live
+RDEPEND=>=dev-db/sqlite-3.7.15:3 net-misc/curl libnotify? ( x11-libs/libnotify )
+SLOT=0
+_eclasses_=git-r3	875eb471682d3e1f18da124be97dcc81
+_md5_=314da798bce648bb33b38d4ccae49127
