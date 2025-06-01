@@ -3,4 +3,3 @@
 # * generated automatically using pmaint *
 
 net-misc/onedrive:libnotify - Add libnotify support
-net-p2p/rtorrent:tinyxml2 - Use vendor tinyxml2 instead of xmlrpc-c. This allows significant reduction in overhead (experimental)

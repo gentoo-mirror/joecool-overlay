@@ -3,7 +3,5 @@ app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-im/element-desktop-bin 1.11.101: A glossy Matrix collaboration client for desktop (binary package)
-net-libs/libtorrent 0.15.2: BitTorrent library written in C++ for *nix
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
-net-p2p/rtorrent 0.15.2: BitTorrent Client using libtorrent
 net-vpn/netbird 0.45.2 0.45.3: netbird VPN client-only ebuild
