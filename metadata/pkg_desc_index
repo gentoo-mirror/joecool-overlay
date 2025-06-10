@@ -2,6 +2,6 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
-net-im/element-desktop-bin 1.11.102: A glossy Matrix collaboration client for desktop (binary package)
+net-im/element-desktop-bin 1.11.103: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
 net-vpn/netbird 0.45.3 0.46.0: netbird VPN client-only ebuild
