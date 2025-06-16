@@ -4,4 +4,4 @@ dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-im/element-desktop-bin 1.11.103: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
-net-vpn/netbird 0.46.0: netbird VPN client-only ebuild
+net-vpn/netbird 0.46.0 0.47.0: netbird VPN client-only ebuild
