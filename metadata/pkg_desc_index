@@ -5,4 +5,4 @@ dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 media-tv/plex-media-server 1.42.1.10060: Free media library that is intended for use with a plex client
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.5.3_beta2: Binary newsgrabber with web-interface
-net-vpn/netbird 0.53.0 0.54.1: netbird VPN client-only ebuild
+net-vpn/netbird 0.54.1 0.54.2: netbird VPN client-only ebuild
