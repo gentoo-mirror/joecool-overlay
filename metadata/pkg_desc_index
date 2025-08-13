@@ -5,4 +5,4 @@ dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-im/element-desktop-bin 1.11.109: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.5.3_beta2: Binary newsgrabber with web-interface
-net-vpn/netbird 0.52.2 0.53.0: netbird VPN client-only ebuild
+net-vpn/netbird 0.53.0 0.54.1: netbird VPN client-only ebuild
