@@ -4,4 +4,4 @@ dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
 net-nntp/sabnzbd 4.5.3_rc1: Binary newsgrabber with web-interface
-net-vpn/netbird 0.54.2: netbird VPN client-only ebuild
+net-vpn/netbird 0.54.2 0.55.1: netbird VPN client-only ebuild
