@@ -1,5 +1,6 @@
 app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair tool (tbb fork)
 app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
+dev-build/just 1.42.4: Just a command runner (with syntax inspired by 'make')
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 dev-vcs/ghorg 1.11.0: Mass repository cloning tool for GitHub/GitLab/Bitbucket
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
