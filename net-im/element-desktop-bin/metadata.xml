@@ -2,10 +2,7 @@
 <!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
 	<maintainer type="person">
-		<email>joe@wt.gd</email>
-		<name>Joe Kappus</name>
+		<email>steils@gentoo.org</email>
+		<name>Stefan Strogin</name>
 	</maintainer>
-	<upstream>
-		<remote-id type="github">gabrie30/ghorg</remote-id>
-	</upstream>
 </pkgmetadata>
