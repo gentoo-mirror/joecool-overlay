@@ -2,5 +2,4 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-text/pdf2djvu 0.9.19-r1: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.5.3: Binary newsgrabber with web-interface
 net-vpn/netbird 0.55.1: netbird VPN client-only ebuild
