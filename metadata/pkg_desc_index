@@ -1,5 +1,6 @@
 app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair tool (tbb fork)
 app-text/pdf2djvu 0.9.19-r1 0.9.19-r2: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
+net-im/telegram-desktop 6.0.2 6.1.2: Official desktop client for Telegram
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
 net-vpn/netbird 0.55.1 0.56.0: netbird VPN client-only ebuild
