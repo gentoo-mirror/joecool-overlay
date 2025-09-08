@@ -2,7 +2,4 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-net-im/telegram-desktop:enchant - Use the app-text/enchant spell-checking backend instead of app-text/hunspell
-net-im/telegram-desktop:fonts - Use builtin patched copy of open-sans fonts (overrides fontconfig)
-net-im/telegram-desktop:libdispatch - Use dev-libs/libdispatch to speed up concurrent code execution
 net-misc/onedrive:libnotify - Add libnotify support
