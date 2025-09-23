@@ -3,4 +3,4 @@ app-text/pdf2djvu 0.9.19-r1 0.9.19-r2: A tool to create DjVu files from PDF file
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 media-tv/plex-media-server 1.42.2.10156: Free media library that is intended for use with a plex client
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
-net-vpn/netbird 0.57.0 0.57.1: netbird VPN client-only ebuild
+net-vpn/netbird 0.58.1: netbird VPN client-only ebuild
