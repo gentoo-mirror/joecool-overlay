@@ -2,7 +2,6 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-text/pdf2djvu 0.9.19-r1 0.9.19-r2: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 media-tv/plex-media-server 1.42.2.10156: Free media library that is intended for use with a plex client
-net-im/element-desktop-bin 1.12.0: A glossy Matrix collaboration client for desktop (binary package)
 net-misc/onedrive 9999: Free Client for OneDrive on Linux
-net-nntp/sabnzbd 4.5.3 4.5.4_beta1: Binary newsgrabber with web-interface
+net-nntp/sabnzbd 4.5.4_beta1 4.5.4_beta2: Binary newsgrabber with web-interface
 net-vpn/netbird 0.59.1 0.59.2: netbird VPN client-only ebuild
