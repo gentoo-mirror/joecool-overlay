@@ -43,6 +43,7 @@ DEPEND="
 		dev-python/notify2[${PYTHON_USEDEP}]
 		dev-python/portend[${PYTHON_USEDEP}]
 		dev-python/puremagic[${PYTHON_USEDEP}]
+		~dev-python/rarfile-4.2[${PYTHON_USEDEP}]
 		~dev-python/sabctools-8.2.6[${PYTHON_USEDEP}]
 	')
 "
