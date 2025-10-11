@@ -2,7 +2,7 @@ app-arch/par2cmdline-tbb 0.4_p20150503: A PAR-2.0 file verification and repair t
 app-text/pdf2djvu 0.9.19-r1 0.9.19-r2: A tool to create DjVu files from PDF files
 dev-libs/uulib 9999: Library that supports Base64 (MIME), uuencode, xxencode and binhex coding
 dev-python/notify2 0.3.1-r3: Python interface to DBus notifications
-dev-python/pykwalify 1.8.0-r3: Python lib/cli for JSON/YAML schema validation
+dev-python/pykwalify 1.8.0-r4: Python lib/cli for JSON/YAML schema validation
 dev-python/sabctools 8.2.5 8.2.6: Module providing raw yEnc encoding/decoding for SABnzbd
 dev-python/tavern 2.16.0 2.17.0: A tool, library, and Pytest plugin for testing RESTful APIs
 media-tv/plex-media-server 1.42.2.10156: Free media library that is intended for use with a plex client
